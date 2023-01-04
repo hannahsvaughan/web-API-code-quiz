@@ -50,7 +50,7 @@ li {
 }
 
 /* need to display only intro page and hide the other sections */
-.question_page, .submit_page, .highscore_page, #check-line {
+.question_page, .submit_page, .highscore_page, #check_line {
     display: none;
 }
 
